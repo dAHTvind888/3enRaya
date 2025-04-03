@@ -1,0 +1,7 @@
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\bin\Debug\tresEnRaya.exe.config
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\bin\Debug\tresEnRaya.exe
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\bin\Debug\tresEnRaya.pdb
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\obj\Debug\tresEnRaya.csproj.AssemblyReference.cache
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\obj\Debug\tresEnRaya.csproj.CoreCompileInputs.cache
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\obj\Debug\tresEnRaya.exe
+C:\Diego Heredia\Programacion 2\examen 3 en raya\tresEnRaya\obj\Debug\tresEnRaya.pdb
